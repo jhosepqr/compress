@@ -4,6 +4,9 @@ Un script en Python sencillo, eficiente y **portable** para comprimir automátic
 
 Este proyecto utiliza `pydub` y `imageio-ffmpeg` para garantizar que no necesites instalar FFmpeg manualmente en tu sistema (configuración de PATH, etc.), haciendo que la herramienta sea completamente *plug-and-play*.
 
+> **⬇️ [DESCARGAR VERSIÓN PORTABLE (.exe)](https://github.com/jhosepqr/compress/releases/latest)**  
+> *No requiere instalar Python ni ninguna otra dependencia. Simplemente descarga el archivo y haz doble clic.*
+
 ---
 
 ## ✨ Características
